@@ -1,0 +1,6 @@
+[workspace]
+
+members = [
+    "learn_proc_macro",
+    "learn_proc_macro_derive"
+]
